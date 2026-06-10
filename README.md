@@ -1,13 +1,77 @@
-## Hi there 👋 I'm Hemaprakash
+Hi, I'm Hemaprakash
 
-💻 Passionate Software Developer | Startup Enthusiast | Problem Solver  
+Flutter Developer | Android Developer | Software Engineering Student
 
-- 🔭 I’m currently working on building real world web applications and an ATS Resume Matching System that analyzes resumes against job descriptions.
-- 🌱 I’m currently learning Data Structures & Algorithms, Backend Development (Java), REST APIs, and scalable system design.
-- 👯 I’m looking to collaborate on startup projects, SaaS tools, and automation based applications.
-- 🤔 I’m looking for help with improving system design skills and building production level applications.
-- 💬 Ask me about Java, Web Development, Resume Optimization Systems, and breaking into startup tech roles.
-- 📫 How to reach me:   
-  - 💼 LinkedIn: [https://linkedin.com/in/your-profile](http://www.linkedin.com/in/hemaprakash-p1221)   
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy turning everyday problems into software solutions and experimenting with AI powered tools.
+I build mobile applications, backend-integrated systems, and scalable software solutions focused on performance, clean architecture, and real-world usability.
+
+---
+
+Current Focus
+
+- Flutter Application Development
+- Firebase & REST API Integration
+- Clean Architecture & State Management
+- Software Engineering Fundamentals
+- AI-powered Applications
+
+---
+
+Tech Stack
+
+Mobile Development
+
+- Flutter
+- Dart
+- Android SDK
+
+Backend & Database
+
+- Firebase
+- REST APIs
+- SQL
+
+Programming Languages
+
+- Dart
+- Java
+- Python
+- C++
+
+Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Android Studio
+
+---
+
+Projects
+
+ATS Resume Optimizer
+
+AI-powered resume optimization system with ATS matching and PDF generation.
+
+Expense Tracker App
+
+Cross-platform Flutter application for expense management and analytics.
+
+Job Finder Application
+
+Mobile application with authentication, API integration, and real-time updates.
+
+---
+
+Currently Learning
+
+- Advanced Flutter Architecture
+- Backend Development
+- System Design
+- CI/CD & GitHub Actions
+
+---
+
+Contact
+
+- LinkedIn: Add Your LinkedIn URL
+- Email: your-email@example.com
