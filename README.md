@@ -1,4 +1,4 @@
-Hi, I'm Hemaprakash
+# Hi, I'm Hemaprakash
 
 Flutter Developer | Android Developer | Software Engineering Student
 
@@ -6,7 +6,7 @@ I build mobile applications, backend-integrated systems, and scalable software s
 
 ---
 
-Current Focus
+## Current Focus
 
 - Flutter Application Development
 - Firebase & REST API Integration
@@ -16,28 +16,28 @@ Current Focus
 
 ---
 
-Tech Stack
+# Tech Stack
 
-Mobile Development
+## Mobile Development
 
 - Flutter
 - Dart
 - Android SDK
 
-Backend & Database
+## Backend & Database
 
 - Firebase
 - REST APIs
 - SQL
 
-Programming Languages
+## Programming Languages
 
 - Dart
 - Java
 - Python
 - C++
 
-Tools & Platforms
+## Tools & Platforms
 
 - Git
 - GitHub
@@ -46,7 +46,7 @@ Tools & Platforms
 
 ---
 
-Projects
+# Projects
 
 ATS Resume Optimizer
 
@@ -62,7 +62,7 @@ Mobile application with authentication, API integration, and real-time updates.
 
 ---
 
-Currently Learning
+# Currently Learning
 
 - Advanced Flutter Architecture
 - Backend Development
@@ -71,6 +71,6 @@ Currently Learning
 
 ---
 
-Contact
+# Contact
 
 - LinkedIn: https://www.linkedin.com/in/hemaprakash-p1221
