@@ -73,5 +73,4 @@ Currently Learning
 
 Contact
 
-- LinkedIn: Add Your LinkedIn URL
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/hemaprakash-p1221
